@@ -6,10 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [0.121.3](https://github.com/promptfoo/promptfoo/compare/0.121.2...0.121.3) (2026-03-12)
 
-
 ### Features
 
-* **app:** add manual filtering to DataTable and improve filter UX ([#8122](https://github.com/promptfoo/promptfoo/issues/8122)) ([46dfdf5](https://github.com/promptfoo/promptfoo/commit/46dfdf57298b0cd6afa98b2b626bcb53e150cca8))
+- **app:** add manual filtering to DataTable and improve filter UX ([#8122](https://github.com/promptfoo/promptfoo/issues/8122)) ([46dfdf5](https://github.com/promptfoo/promptfoo/commit/46dfdf57298b0cd6afa98b2b626bcb53e150cca8))
 
 ## [0.121.2](https://github.com/promptfoo/promptfoo/compare/0.121.1...0.121.2) (2026-03-12)
 
